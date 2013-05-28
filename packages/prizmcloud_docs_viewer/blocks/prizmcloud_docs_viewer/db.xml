@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	<table name="btPrizmCloudDocsViewer">
+		<field name="bID" type="I">
+      <key />
+      <autoincrement />
+      <unsigned />
+    </field>
+		<field name="pkey" type="C" size="100"></field>
+		<field name="ptype" type="C" size="20"></field>
+		<field name="doc_url" type="C" size="255"></field>
+		<field name="width" type="I" size="5"></field>
+		<field name="height" type="I" size="5"></field>
+    <field name="print_button" type="L"></field>
+    <field name="toolbar_color" type="C" size="7"></field>
+	</table>
+</schema>
