@@ -9,7 +9,7 @@ View a [demo](http://prizmcloud.accusoft.com/demo.html)
 
 ##Installation Instructions
 
-1. Unzip this file in your site's packages/ directory.
+1. Unzip this file and add the 'prizmcloud_docs_viewer' folder in your site's packages/ directory.
 2. Login to your site as an administrator.
 3. Find the "Add Functionality" page in your dashboard.
 4. Find this package in the list of packages awaiting installation.
