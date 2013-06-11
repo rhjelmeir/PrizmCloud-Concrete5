@@ -1,5 +1,4 @@
-PrizmCloud Emebbed Document Viewer for concrete5
-================================================
+##PrizmCloud Emebbed Document Viewer for concrete5
 
 Concrete5 Add On for PrizmCloud Embedded Document Viewer. Embed our document viewer in your site. Your visitors view your documents in any of 300+ file types. Just like that.
 
